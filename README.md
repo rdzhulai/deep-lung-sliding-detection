@@ -113,7 +113,7 @@ We welcome contributions to improve the project. Please fork the repository and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
