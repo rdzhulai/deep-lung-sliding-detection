@@ -1,0 +1,1712 @@
+[
+    {
+        "video_name": "013_image_55695359531586.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                278
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_151120_32.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                293
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_12.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                66,
+                516
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_071332_27.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                222
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 5b x220720--112808_20220720_MSK_0003.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0002bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_8.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                136,
+                256
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_17.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                56,
+                106
+            ]
+        ]
+    },
+    {
+        "video_name": "x220425--091211_20220425_MSK_0006lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210930_154240_20.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                409
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--072457_20220724_MSK_0003 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_15.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                210
+            ]
+        ]
+    },
+    {
+        "video_name": "012_image_55119119714845.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_26.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                406,
+                996
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210928_144651_1.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                526,
+                998
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_19.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                296,
+                493
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 10e x220727--101956_20220727_MSK_0004.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--094147_20220721_MSK_0006 as.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 23e x220722--101852_20220722_MSK_0004.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                0,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "017_image_109222872790493.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210928_144804_3.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                998
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210929_162135_14.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                285
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_21.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                996
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_151223_34.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                96,
+                472
+            ]
+        ]
+    },
+    {
+        "video_name": "001_image_902463875931.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                296
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0008bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_15.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                221
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210930_154723_23.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                427,
+                947
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_64512275595780.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                300
+            ]
+        ]
+    },
+    {
+        "video_name": "x220301--110909_20220301_MSK_0005lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_18.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                482
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_27143446099047.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "012_image_66351195251695.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                253
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_25.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                56,
+                166
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_11.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                96
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0003bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "009_image_46858149527830.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "x211027--111948_20211027_MSK_0006 lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 5c x220720--112808_20220720_MSK_0004.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210930_154352_21.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                998
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210929_104316_9.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                76,
+                500
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 10f x220727--101956_20220727_MSK_0005.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_2.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                342
+            ]
+        ]
+    },
+    {
+        "video_name": "003_image_136820492055.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210929_162327_16.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                354
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0002as.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_40207560526241.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210929_162253_15.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                285
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_642626749501.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_9.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                275
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210928_145324_6.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                36
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--094147_20220721_MSK_0002 Bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_071251_26.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                286,
+                475
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_770126846834.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0006s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 24b x220722--212227_20220722_MSK_0003.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "8e x220722--101032_20220722_MSK_0004.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--154541_20220724_MSK_0004 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x_image_15055609456884.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_19.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                194
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0005s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_151151_33.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                96,
+                466
+            ]
+        ]
+    },
+    {
+        "video_name": "013_image_73256764304910.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                253
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_2.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                595
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_7.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                36,
+                196
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_797389619930.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_4.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                261
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_151030_31.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                116,
+                426
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_661374004642.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "8f x220722--101032_20220722_MSK_0005.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 23c x220722--101852_20220722_MSK_0002.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "003_image_154719157581.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0007bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 5d x220720--112808_20220720_MSK_0005.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_24.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                716,
+                996
+            ]
+        ]
+    },
+    {
+        "video_name": "019_image_105254193418293.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                216
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_6.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                236
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_14.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                156,
+                641
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_692812628081.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_27.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                166,
+                484
+            ]
+        ]
+    },
+    {
+        "video_name": "012_image_36801179580177.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                193
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_1.mp4",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                164
+            ]
+        ]
+    },
+    {
+        "video_name": "018_image_102163304389927.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                254
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--072457_20220724_MSK_0005 Bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_8.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                366
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_003_20211001_071405_28.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                216
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--163319_20220721_MSK_0003 As.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_13.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                26,
+                201
+            ]
+        ]
+    },
+    {
+        "video_name": "008_image_245292717786.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_64609655709056.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                266
+            ]
+        ]
+    },
+    {
+        "video_name": "x220301--110909_20220301_MSK_0003lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220427--090640_20220427_MSK_0002lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "014_image_88499330588354.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                260
+            ]
+        ]
+    },
+    {
+        "video_name": "016_image_93448239537660.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--094147_20220721_MSK_0004 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_14.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                282
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_27181832981519.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210929_104445_11.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                96,
+                767
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_4.mp4",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                266
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_20.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                156,
+                312
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20211008_110822_86.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                156,
+                998
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210929_104354_10.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                166,
+                755
+            ]
+        ]
+    },
+    {
+        "video_name": "013_image_55657204175190.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "014_image_67630363070511.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                283
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_22.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                116,
+                421
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_64754365864107.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                269
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 7f x220722--074409_20220722_MSK_0005.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_28.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                595
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210930_154619_22.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                36
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--163319_20220721_MSK_0004 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_6.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                106,
+                186
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--094147_20220721_MSK_0001 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_64561377213245.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                269
+            ]
+        ]
+    },
+    {
+        "video_name": "013_image_73165061806052.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_16.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                66,
+                242
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_17.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                76,
+                302
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0001b.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "006_image_615824496520.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "x220301--110909_20220301_MSK_0002lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_5.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                166
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--072457_20220724_MSK_0002 As.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20211008_110924_87.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                484
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 5a x220720--112808_20220720_MSK_0002.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_3.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                290
+            ]
+        ]
+    },
+    {
+        "video_name": "001_image_211589708848.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "015_image_74118240273101.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                297
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0003s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "pacient 23d x220722--101852_20220722_MSK_0003.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_23.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                996
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20210929_104225_8.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                76
+            ]
+        ]
+    },
+    {
+        "video_name": "017_image_109242063211556.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20211008_110705_85.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                376,
+                998
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_40140721168289.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_002_20211008_111019_88.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                285,
+                395
+            ]
+        ]
+    },
+    {
+        "video_name": "003_image_70959392795.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                300
+            ]
+        ]
+    },
+    {
+        "video_name": "8d x220722--101032_20220722_MSK_0003.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "016_image_75286334787689.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                260
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_9.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                116
+            ]
+        ]
+    },
+    {
+        "video_name": "x220427--090640_20220427_MSK_0007lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_16.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                246
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_3.mp4",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                206
+            ]
+        ]
+    },
+    {
+        "video_name": "012_image_55072403990647.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                296
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_5.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                56,
+                96
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_13.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                126,
+                406
+            ]
+        ]
+    },
+    {
+        "video_name": "x220721--163319_20220721_MSK_0002 AB,s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "003_image_106405119193.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                295
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0001s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "014_image_67605407283106.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                296
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_11.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                183
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_18.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                56,
+                166
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0004as.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_12.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                206
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--154541_20220724_MSK_0003 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "015_image_93029618565613.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                163
+            ]
+        ]
+    },
+    {
+        "video_name": "8c x220722--101032_20220722_MSK_0002.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSA_10.avi",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                246
+            ]
+        ]
+    },
+    {
+        "video_name": "x220427--090640_20220427_MSK_0005lp.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--154541_20220724_MSK_0001 s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--071841_20220819_MSK_0006bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "010_image_40093380860284.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "016_image_75164350686892.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                277
+            ]
+        ]
+    },
+    {
+        "video_name": "009_image_1744585294290.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                296
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_7.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                296
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0005s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220724--071042_20220724_MSK_0002s.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Sonoscape_2021-09_2021-10-18_001_20210928_145150_5.avi",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                97,
+                835
+            ]
+        ]
+    },
+    {
+        "video_name": "x220427--090640_20220427_MSK_0003lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "Old_dataset_LSP_1.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                246
+            ]
+        ]
+    },
+    {
+        "video_name": "021_image_182041262860754.mp4",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                298
+            ]
+        ]
+    },
+    {
+        "video_name": "x220819--070303_20220819_MSK_0004bs.AVI",
+        "video_class": "ls_p",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    },
+    {
+        "video_name": "x220301--110909_20220301_MSK_0004lsa.AVI",
+        "video_class": "ls_a",
+        "cut_interval": [
+            [
+                15,
+                299
+            ]
+        ]
+    }
+]

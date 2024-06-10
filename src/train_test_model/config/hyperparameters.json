@@ -1,0 +1,19 @@
+{
+    "model_name": "CMWRA",
+    "frames": 40,
+    "size": [20, 20],
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "sched_epochs": "auto",
+    "grad_clip": 0.1,
+    "batch_size": 3,
+    "dropout_prob": 0.65,
+    "gamma": 1,
+    "alpha": "auto",
+    "sampled_size": 0.95,
+    "train_test_size": 0.2,
+    "val_test_size": 1,
+    "class_ratio": "auto",
+    "mean_std": [[51.73805618286133], [34.25954055786133]],
+    "seed": 547024
+}
