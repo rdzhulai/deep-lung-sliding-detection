@@ -59,7 +59,7 @@ python train_model.py --new_checkpoint_name <new_checkpoint_name> --load_checkpo
 To train a model for 100 epochs and save the checkpoint as `my_model`, use the following command:
 
 ```bash
-python train_model.py -n my_model -e 100
+python train_model.py -n my_model -e 10
 ```
 
 Additionally, users can modify hyperparameters using the JSON configuration file located at `config/hyperparameters.json`. This file allows users to specify hyperparameters such as learning rate, batch size, etc. The value `auto` indicates that the parameter uses the default value, or it is calculated dynamically before training.
@@ -87,7 +87,7 @@ This command will load the checkpoint file `my_model_checkpoint.pth` located in 
 
 ## Model Architecture
 
-Our proposed architecture combines optical flow analysis with CNNs to capture the temporal dynamics of lung motion and extract meaningful features for classification. We experimented with several model variations, including 3D convolutional models and recurrent models【6:0†source】【6:3†source】.
+Our proposed architecture combines optical flow analysis with CNNs to capture the temporal dynamics of lung motion and extract meaningful features for classification. We experimented with several model variations, including 3D convolutional models and recurrent models.
 
 ## Dataset
 
@@ -117,9 +117,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This research was supported by the Technical University of Košice. We thank our mentors and colleagues for their valuable input and support throughout this project【6:0†source】【6:3†source】.
+This research was supported by the Technical University of Košice. We thank our mentors and colleagues for their valuable input and support throughout this project.
 
-For more detailed information about the project, please refer to the [article](path/to/article.pdf) and the [documentation](path/to/docs.pdf).
+For more detailed information about the project, please refer to the [article](article/article.pdf) and the [documentation](docs/docs.pdf).
 
 ---
 
