@@ -21,7 +21,7 @@ This repository contains the implementation of our research on detecting the abs
 
 ## Introduction
 
-Pneumothorax is a potentially life-threatening condition characterized by the presence of air in the pleural cavity, which can impair respiratory function. Identifying lung sliding in ultrasound videos is a key component of pneumothorax assessment. Our research proposes a novel deep learning approach that integrates optical flow analysis with Convolutional Neural Networks (CNNs) for automated lung sliding classification【6:0†source】.
+Pneumothorax is a potentially life-threatening condition characterized by the presence of air in the pleural cavity, which can impair respiratory function. Identifying lung sliding in ultrasound videos is a key component of pneumothorax assessment. Our research proposes a novel deep learning approach that integrates optical flow analysis with Convolutional Neural Networks (CNNs) for automated lung sliding classification.
 
 ## Installation
 
@@ -91,7 +91,7 @@ Our proposed architecture combines optical flow analysis with CNNs to capture th
 
 ## Dataset
 
-The dataset comprises 171 ultrasound videos of lung examinations. These videos vary in length from 20 to 900 frames and are stored in grayscale PNG format. The dataset includes two classes: "Lung sliding present" and "Lung sliding absent"【6:4†source】.
+The dataset comprises 171 ultrasound videos of lung examinations. These videos vary in length from 20 to 900 frames and are stored in grayscale PNG format. The dataset includes two classes: "Lung sliding present" and "Lung sliding absent".
 
 ## Evaluation
 
@@ -101,11 +101,11 @@ Evaluate the model using the following command:
 python evaluate.py --model_dir path_to_saved_model --data_dir path_to_evaluation_data
 ```
 
-The evaluation script will output the model's performance metrics, including recall and specificity, which are critical for medical applications【6:4†source】.
+The evaluation script will output the model's performance metrics, including recall and specificity, which are critical for medical applications.
 
 ## Results
 
-Our experiments demonstrated that the proposed deep learning approach achieved robust performance in detecting the absence of lung sliding. The final model variations provided valuable insights into the strengths and limitations of each approach【6:3†source】.
+Our experiments demonstrated that the proposed deep learning approach achieved robust performance in detecting the absence of lung sliding. The final model variations provided valuable insights into the strengths and limitations of each approach.
 
 ## Contributing
 
