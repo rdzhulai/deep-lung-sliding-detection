@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of our research on detecting the absence of lung sliding in ultrasound videos using deep learning techniques. The project aims to aid in the diagnosis of pneumothorax by automating the identification of lung sliding, a crucial indicator of pleural movement during respiration.
+The primary goal of this project is to develop and evaluate deep learning models capable of accurately detecting the absence of lung sliding in lung ultrasound (LUS) videos. This detection is crucial for diagnosing conditions such as pneumothorax, which requires timely and accurate intervention.
 
 ## Table of Contents
 
